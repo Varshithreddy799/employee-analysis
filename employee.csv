@@ -1,0 +1,21 @@
+employee_id,name,department,city,join_date,review_date,experience_years,attendance_pct,performance_score
+E001,Aarav,Data,Hyderabad,2022-01-15,2023-01-15,1,92,78
+E002,Ananya,Data ,Bangalore,2022-02-10,2023-02-10,1,88,82
+E003,Rohan,HR, Mumbai,2021-03-05,2023-03-05,2,95,88
+E004,Meera,Finance,Delhi,2021-04-20,2023-04-20,2,85,74
+E005,Kabir,Data,Hyderabad ,2020-05-18,2023-05-18,3,90,91
+E006,Priya,HR,Bangalore,2020-06-12,2023-06-12,3,87,69
+E007,Arjun,Finance ,Delhi,2019-07-01,2023-07-01,4,93,85
+E008,Sanya,Data,Mumbai,2019-08-25,2023-08-25,4,89,88
+E009,Vikram,HR, Hyderabad,2018-09-14,2023-09-14,5,96,92
+E010,Isha,Finance,Bangalore,2018-10-30,2023-10-30,5,84,73
+E011,Rahul,Data,Delhi ,2017-11-11,2023-11-11,6,91,86
+E012,Neha,HR,Mumbai,2017-12-05,2023-12-05,6,88,79
+E013,Karan,Finance,Hyderabad,2016-01-22,2023-01-22,7,94,90
+E014,Pooja,Data,Bangalore ,2016-02-18,2023-02-18,7,86,77
+E015,Manish,HR,Delhi,2015-03-09,2023-03-09,8,97,94
+E016,Ritika,Finance,Mumbai ,2015-04-27,2023-04-27,8,83,71
+E017,Aditya,Data,Hyderabad,2014-05-15,2023-05-15,9,92,89
+E018,Tanya,HR,Bangalore,2014-06-03,2023-06-03,9,90,84
+E019,Nikhil,Finance,Delhi ,2013-07-19,2023-07-19,10,95,93
+E020,Aditi,Data,Mumbai,2013-08-08,2023-08-08,10,88,81
